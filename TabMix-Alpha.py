@@ -7,7 +7,7 @@ from PyQt5.QtCore import Qt, QUrl
 class BrowserWindow(QMainWindow):
     def __init__(self):
         super().__init__()
-        self.setWindowTitle("TabMix - Alpha:0.0.2")
+        self.setWindowTitle("TabMix - Alpha_v1.0.0")
         self.setGeometry(100, 100, 1200, 800)
 
         # Layout principale
